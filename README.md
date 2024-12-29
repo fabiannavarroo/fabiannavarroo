@@ -6,7 +6,7 @@ Soy un apasionado de **Python** y los **videojuegos**. Aquí encontrarás proyec
 - Experimentos con inteligencia artificial y Python 🤖  
 
 🌟 **Algunos de mis proyectos destacados**:  
-- 🟡 [PACMAN](#)  
+- 🟡 [PACMAN](https://github.com/fabiannavarroo/PROYECTO-FINAL-PACMAN)  
 
 
 ¡Si te gustan mis proyectos, no olvides darme una ⭐ y contribuir! 😄  
